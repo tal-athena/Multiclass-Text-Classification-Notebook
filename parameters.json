@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "runPython": false,
+  "displaySettings": true,
+  "divideCategories": true,
+  "scoreAll": false,
+  "scoreUncategorized": false,
+  "validationPercentage": 10,
+  "dynamicColumnID": 0,
+  "dynamicColumnTitle": "",
+  "includeBigrams": true,
+  "includeTrigrams": true,
+  "password": null,
+  "multiCategories": {
+    "Children Group": [
+      1
+    ],
+    "Elderly Group": [
+      2
+    ],
+    "Female Group": [
+      3
+    ]
+  },
+  "SGDClassifier": true,
+  "RandomForestClassifier": true
+}
